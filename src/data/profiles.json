@@ -1,0 +1,11 @@
+{"current": "0",
+ "profiles": [
+    {
+        "id": "0",
+        "login": "login",
+        "password": "password",
+        "name": "Ivan",
+        "profile-picture": "/images/profile_pictures/pic (1).jpg",
+        "cart": ["1", "0", "2", "3", "5"]
+    } 
+]}
